@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @50lo
-- 🍏 I have over fifteen years of experience developing for Apple platforms.
-- 📚 I’m currently learning TypeScript & React Native
-- 🤝 I’m looking to collaborate on React Native
+- 🍏 I have over fifteen years of experience developing for Apple platforms using Swift and Objective-C.
+- 📚 I’m currently learning TypeScript & React Native.
 
 <!---
 50lo/50lo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
